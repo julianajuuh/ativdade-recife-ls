@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #000;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Conteúdo principal */
+main {
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Imagens */
+img {
+  width: 300px;
+  display: block;
+  margin: 15px auto;
+}
+
+/* Rodapé */
+footer {
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
